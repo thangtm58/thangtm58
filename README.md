@@ -19,4 +19,4 @@ I'm Thang (Winston) Trinh, a passionate Quant Finance enthusiast with 4 years ex
 - Machine learning/deep learning:
 - Derivative pricing:
 
-📫 Let's connect: [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/thangtm589/))
+📫 Let's connect: [LinkedIn]([https://linkedin.com/in/thangtm589])
