@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Thang (Winston) Trinh, a passionate Quant Finance enthusiast.
+I'm Thang (Winston) Trinh, a passionate Quant Finance enthusiast with 4 years experience in Financial Business Intelligence
 
 🚀 **About Me**
 - 🎓 Currently pursuing Master's in Quant Finance
