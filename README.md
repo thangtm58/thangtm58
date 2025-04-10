@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**thangtm58/thangtm58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thang (Winston) Trinh, a passionate Quant Finance enthusiast.
 
-Here are some ideas to get you started:
+🚀 **About Me**
+- 🎓 Currently pursuing Master's in Quant Finance
+- 💼 Ex-Intern @ [Company]
+- 🤖 Interested in algorithmic trading, machine learning, risk models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills**
+- Programming: Python, R, SQL
+- Data Viz: Power BI, matplotlib
+- Risk & Trading: XVA, derivatives, portfolio optimization
+
+📫 Let's connect: [LinkedIn](https://linkedin.com/in/yourname)
