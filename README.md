@@ -5,7 +5,7 @@ I'm Thang (Winston) Trinh, a passionate Quant Finance enthusiast with **4 years 
 🚀 **About Me**
 - 🎓 Currently pursuing **Master's in Quant Finance** at University of Technology Sydney
 - 💼 Ex - **Senior Business Intelligence**, specilizing in **FP&A** @ [Shopee - Leading ecommerce giant in South East Asia]
-- 🎓 Bachelor in International BA at Foreign Trade University - **Top 1** Business university in Vietnam
+- 🎓 Bachelor in International BA at Foreign Trade University - **Top 1** Business University in Vietnam
 - 🤖 **Interested in** mathematics, algorithmic trading, machine learning, risk models
 
 🛠️ **Skills**
