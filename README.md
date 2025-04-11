@@ -16,7 +16,7 @@ I'm Thang (Winston) Trinh, a passionate Quant Finance enthusiast with **4 years 
 
 🧠 **Project**
 - **Risk management**:
-- **Machine learning/deep learning**:
+- **Machine learning/Deep learning**: [Lab 2](https://github.com/thangtm58/quant-finance/tree/main/machine_learning)
 - **Derivative pricing**:
 
 📫 Let's connect: [LinkedIn](https://linkedin.com/in/thangtm589)
