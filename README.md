@@ -15,8 +15,8 @@ I'm Thang (Winston) Trinh, a passionate Quant Finance enthusiast with **4 years 
 - **Languages**: Vietnamese, English, Mandarin
 
 🧠 **Project**
-- **Risk management**:
+- **Risk management**: TBU
 - **Machine learning/Deep learning**: [ML Projects](https://github.com/thangtm58/quant-finance/tree/main/machine_learning)
-- **Derivative pricing**:
+- **Derivative pricing**: TBU
 
 📫 Let's connect: [LinkedIn](https://linkedin.com/in/thangtm589)
