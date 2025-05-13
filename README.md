@@ -4,8 +4,6 @@
   <b>Quant Finance | FP&A | Business Intelligence</b><br/>
 </p>
 
----
-
 ## 🚀 About me
 
 A passionate Quant Finance enthusiast with **4 years experience** in Financial Business Intelligence.
