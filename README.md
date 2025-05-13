@@ -6,15 +6,15 @@
 
 ## 🚀 About me
 
-A passionate Quant Finance enthusiast with **4 years experience** in Financial Business Intelligence.
+Bridging data, math, AI, and markets — I’m a professional with **4 years of experience** in FP&A and business intelligence. I’m passionate about applying mathematical modeling, algorithmic thinking, and AI/ML techniques to understand market behavior — and ultimately turn that understanding into **profitable** strategies.
 
 
-## 💼 Details
+## 🎯 **Professional Journey**
 
 ### 🧠 My "current" tasks
 - Pursuing **Master's in Quant Finance & Data Science** at University of Technology Sydney
 - Researching on state-space models, MCMC subsampling, and Kalman filter – supervised by [Dr. Matias Quiroz](http://matiasquiroz.com) and Dr. Thomas Goodwin
-- Applying my Quant knowledge to build automated trading algorithm
+- Applying my Quant/Programming to build an automated trading algorithm
 - Learning **Mandarin**
 
 ### 📚 Past experience and education
