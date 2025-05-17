@@ -14,7 +14,7 @@ Bridging data, math, AI, and markets — I’m a professional with **4 years of 
 ### 🧠 My "current" tasks
 - Pursuing **Master's in Quant Finance & Data Science** at University of Technology Sydney
 - Researching on state-space models, MCMC subsampling, and Kalman filter – supervised by [Dr. Matias Quiroz](http://matiasquiroz.com) and Dr. Thomas Goodwin
-- Applying my Quant/Programming to build an automated trading algorithm
+- Applying my Quant/Programming to build [an automated trading algorithm](https://github.com/thangtm58/trading_algorithm)
 - Learning **Mandarin**
 
 ### 📚 Past experience and education
